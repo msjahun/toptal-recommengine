@@ -419,8 +419,36 @@
 		 "url": "https://cdn.watchasian.co/images/Night%20Watchman%20Journal.jpg"
 		}
 	},
-	  {
+	{
 		"id": "61",
+		"name": "Life on Mars",
+		"thumb": {
+		 "url": "https://cdn.watchasian.co/cover/life-on-mars.png"
+		}
+	},
+	{
+		"id": "62",
+		"name": "What’s Wrong With Secretary Kim",
+		"thumb": {
+		 "url": "https://cdn.watchasian.co/cover/whats-wrong-with-secretary-kim.png"
+		}
+	},
+	{
+		"id": "63",
+		"name": "Legend of Fu Yao",
+		"thumb": {
+		 "url": "https://cdn.watchasian.co/cover/legend-of-fu-yao.png"
+		}
+	},
+	{
+		"id": "64",
+		"name": "Goodbye to Goodbye",
+		"thumb": {
+		 "url": "https://cdn.watchasian.co/cover/goodbye-to-goodbye.png"
+		}
+	},
+	  {
+		"id": "65",
 		"name": "Lawless Lawyer",
 		"thumb": {
 		 "url": "https://cdn.watchasian.co/cover/lawless-lawyer.png"
